@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/task02_fetchapi/static/css/main.41c93695.css",
+    "main.js": "/task02_fetchapi/static/js/main.dcf35d31.js",
+    "index.html": "/task02_fetchapi/index.html",
+    "main.41c93695.css.map": "/task02_fetchapi/static/css/main.41c93695.css.map",
+    "main.dcf35d31.js.map": "/task02_fetchapi/static/js/main.dcf35d31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41c93695.css",
+    "static/js/main.dcf35d31.js"
+  ]
+}
